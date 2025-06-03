@@ -2,7 +2,7 @@
 
 // Your config (already correct)
 const firebaseConfig = {
-  apiKey: "AIzaSyDueQXkBczLEFuC2y3JV59lczs6sW3UC9Q",
+  apiKey: "AIzaSyDueQXkBczLEFuC2y3JV59lczs6sW3U",
   authDomain: "first-cc1d9.firebaseapp.com",
   projectId: "first-cc1d9",
   storageBucket: "first-cc1d9.appspot.com",  // corrected URL
