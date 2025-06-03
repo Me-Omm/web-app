@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+  background: #f3f3f3;
+}
+input {
+  margin: 5px;
+  padding: 8px;
+}
+button {
+  padding: 8px 12px;
+  margin: 5px;
+}
+li {
+  margin-top: 10px;
+}
